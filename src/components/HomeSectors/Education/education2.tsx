@@ -81,7 +81,7 @@ ScratchNest has brought superior modern technology to your doorstep that ensures
 
 
     </div>
-     <Footer />
+
      </>
   );
 }

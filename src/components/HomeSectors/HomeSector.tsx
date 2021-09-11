@@ -15,7 +15,7 @@ import OurSectors  from "./oursectors/OurSectors";
 import Footer from "../Footer/footer2";
 import { useEffect  } from "react";
 import {Helmet} from "react-helmet";
-
+import Blogs from './Blogs/Blogs.js';
 
 function HomeSector() {
   useEffect(() => {
@@ -47,8 +47,8 @@ function HomeSector() {
    <Beacon/>
    <DataLogger/>
    <Education/>
-            
-            
+   <Blogs/>   
+         <Footer/>
       
     </div>
   );

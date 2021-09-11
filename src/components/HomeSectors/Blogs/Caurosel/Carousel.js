@@ -122,10 +122,10 @@ Logging</h1>
   </div>
   
   <a class="carousel-control-prev" href="#demo_ambitag" data-slide="prev">
-    <span class="fas fa-arrow-circle-left" style={{"fontSize":"30px"}}></span>
+    <span class="fa fa-arrow-circle-left" style={{"fontSize":"30px"}}></span>
   </a>
   <a class="carousel-control-next" href="#demo_ambitag" data-slide="next">
-    <span class="fas fa-arrow-circle-right" style={{"fontSize":"30px"}}></span>
+    <span class="fa fa-arrow-circle-right" style={{"fontSize":"30px"}}></span>
   </a>
 </div>
 
@@ -176,10 +176,10 @@ Monitoring</h1>
 
   
   <a class="carousel-control-prev" href="#demo2" data-slide="prev">
-    <span class="fas fa-arrow-circle-left" style={{"fontSize":"20px"}}></span>
+    <span class="fa fa-arrow-circle-left" style={{"fontSize":"20px"}}></span>
   </a>
   <a class="carousel-control-next" href="#demo2" data-slide="next">
-    <span class="fas fa-arrow-circle-right" style={{"fontSize":"20px"}}></span>
+    <span class="fa fa-arrow-circle-right" style={{"fontSize":"20px"}}></span>
   </a>
 
 
